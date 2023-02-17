@@ -83,3 +83,7 @@ fi
 **setup sass with react**
 npm i --save node-sass
 update declarations.d.ts to include scss module alongside css module
+
+**install styled components library"
+npm i styled-components
+npm i --save-dev @types/styled-components
