@@ -84,6 +84,6 @@ fi
 npm i --save node-sass
 update declarations.d.ts to include scss module alongside css module
 
-**install styled components library"
+**install styled components library" -- aditya arakal
 npm i styled-components
 npm i --save-dev @types/styled-components
